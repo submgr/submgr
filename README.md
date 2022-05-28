@@ -1,1 +1,1 @@
-[img](https://submgr.wrapped.run)
+![alt text]([http://url/to/img.png](https://submgr.wrapped.run/))
