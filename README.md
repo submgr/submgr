@@ -1,1 +1,1 @@
-![wrapped_submgr (2)](https://user-images.githubusercontent.com/18516370/176191849-61624550-6658-4e5f-a08f-ce19fb717f79.png)
+![wrapped_submgr](https://user-images.githubusercontent.com/18516370/205044324-15580d6b-03e3-451c-aaae-9645f66a9745.png)
